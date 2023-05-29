@@ -10,6 +10,7 @@ bu sistemde elimizdeki hareket sensörünün toprak kısmını fpga de ki grnd k
 
 
 pir sensör sinyalini kırmızı led ve yeşil led çıkışlarını tanımladık.
+
 ![image](https://github.com/aylanckerem/Embedded_-system_Projects_Passive_Capture_Sensor/assets/96474969/e97e6a0b-8071-4d23-90c8-ca03cec4fa22)
 
 previous_state ve current_state isimli iki tane wire değişken tanımladık. 
