@@ -1,4 +1,4 @@
-# Embedded_system_Projects_Passive_Capture_Sensor
+# Embedded_system_Projects_Passive_Capture_Sensor 
 
 projemiz de elimizde bulunan fpga kartını hareket sensörü ile bağlayarak pir sensörünün hareketi algılaması durumunda kırmızı led yakan, algılamaması durumunda ise yeşil led yakan bir sistem oluşturduk.
 
