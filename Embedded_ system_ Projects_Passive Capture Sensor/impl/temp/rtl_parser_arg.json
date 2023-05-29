@@ -1,7 +1,7 @@
 {
  "Files" : [
   {
-   "Path" : "C:/Users/aylan/OneDrive/Belgeler/fpga_project_proje1/src/project1.v",
+   "Path" : "C:/Users/aylan/OneDrive/Belgeler/Embedded_ system_ Projects_Passive Capture Sensor/src/project1.v",
    "Type" : "verilog"
   }
  ],
@@ -9,7 +9,7 @@
 
  ],
  "LoopLimit" : 2000,
- "ResultFile" : "C:/Users/aylan/OneDrive/Belgeler/fpga_project_proje1/impl/temp/rtl_parser.result",
+ "ResultFile" : "C:/Users/aylan/OneDrive/Belgeler/Embedded_ system_ Projects_Passive Capture Sensor/impl/temp/rtl_parser.result",
  "Top" : "",
  "VerilogStd" : "verilog_2001",
  "VhdlStd" : "vhdl_93"

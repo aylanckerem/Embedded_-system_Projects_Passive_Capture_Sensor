@@ -1,9 +1,9 @@
 [
  {
-  "InstFile" : "C:/Users/aylan/OneDrive/Belgeler/fpga_project_proje1/src/project1.v",
+  "InstFile" : "C:/Users/aylan/OneDrive/Belgeler/Embedded_ system_ Projects_Passive Capture Sensor/src/project1.v",
   "InstLine" : 1,
   "InstName" : "PIR_LED",
-  "ModuleFile" : "C:/Users/aylan/OneDrive/Belgeler/fpga_project_proje1/src/project1.v",
+  "ModuleFile" : "C:/Users/aylan/OneDrive/Belgeler/Embedded_ system_ Projects_Passive Capture Sensor/src/project1.v",
   "ModuleLine" : 1,
   "ModuleName" : "PIR_LED"
  }
